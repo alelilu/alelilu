@@ -18,7 +18,7 @@ Desde hace tiempo, me he decantado por el diseño web y el diseño UX/UI, por lo
 👾Trabajo como **diseñadora web en [Virket Agency](https://virket.com/es/agency/)**
 
 
-
+[![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:alsbarr31@gmail.com)&nbsp;
 
 
 ### 🎯Tecnologías que utilizo 
