@@ -5,7 +5,7 @@
 
 Soy una diseñadora gráfica de la Ciudad de México. Me gusta desarrollar ideas y buscar los elementos adecuados para crear productos estéticamente agradables, pero, sobre todo, funcionales. Me considero una persona creativa, responsable y empática. Disfruto del trabajo en equipo y doy lo mejor de mí en cada nuevo reto que se me presenta.
 
-Desde hace tiempo, me he decantado por el diseño web y el diseño UX/UI, por lo que, además de mis conocimientos en la Suite Adobe, he aprendido a manejar Figma, HTML5, CSS3, Visual Studio Code y Github. Además, durante mi recorrido de aprendizaje he descubierto herramientas como Notion, Slack, Miro y Jira.
+Desde hace tiempo, me he decantado por el diseño web y el diseño UX/UI, por lo que, además de mis conocimientos en la Suite Adobe, he aprendido a manejar Figma, HTML5, CSS3, Visual Studio Code y Github. Así mismo, durante mi recorrido de aprendizaje he descubierto herramientas como Notion, Slack, Miro y Jira.
 
 #### Formación 
 🎓Estudié Diseño y Comunicación Visual en la Facultad de Estudios Superiores Cuautitlán.
@@ -19,9 +19,13 @@ Desde hace tiempo, me he decantado por el diseño web y el diseño UX/UI, por lo
 
 
 
+
+
 ### 🎯Tecnologías que utilizo 
-
-
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **alelilu/alelilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
